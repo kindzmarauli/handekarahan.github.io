@@ -1,0 +1,19 @@
+body {
+      margin: 0 auto;
+      max-width: 50em;
+      padding: 4em 1em;
+
+      font-family: "Helvetica", "Comic sans", sans-serif;
+    line-height: 1.5;
+    color: #555;
+
+      background-color: #40E0D0;
+}
+
+img {
+    max-height: 150px;
+}
+
+h1, h2{
+    color: purple;
+}
